@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL:[Link](https://github.com/Shillue/blog-preview-card-main.git)
+- Live Site URL: [Link](https://shillue.github.io/blog-preview-card-main/)
 
 ---
 
