@@ -1,0 +1,53 @@
+/* Responsivo */
+@media (max-width: 410px) {
+  /* Main - container */
+  .container {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 15px 1px 22px;
+  }
+
+  /* container card */
+  .container .card {
+    padding: 0.5rem;
+    width: 18rem;
+    margin: 0.5rem;
+    gap: 5px;
+  }
+  /* card illustration */
+  .container .card .card__illustration {
+    width: 15.5rem;
+    margin: 9px 5px 0 5px;
+  }
+
+  /* card description */
+  .description .description__publis .description__publis__btn {
+    font-size: 14px;
+    margin: 5px 0px 10px;
+  }
+
+  .description .description__publis p {
+    font-size: 14px;
+  }
+  .description__foundations h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .description__foundations p {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+
+  /* card profile */
+  .card .profile {
+    padding: 5px 4px;
+    margin-bottom: 4px;
+  }
+  .card .profile .profile__avatar {
+    width: 35px;
+  }
+
+  .card .profile a {
+    font-size: 14px;
+  }
+}
