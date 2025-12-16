@@ -32,6 +32,10 @@ Users should be able to:
 
 ### 📸 Screenshot
 
+![blog-preview-card-main](https://github.com/user-attachments/assets/624552fb-5c73-4285-b0e8-d7aaa6afa0ab)
+
+---
+
 ### Links
 
 - Solution URL:
@@ -79,5 +83,5 @@ In future projects, I want to continue improving:
 ### 👤 Author
 
 Name: Shilluê   
-Frontend Mentor: 
-LinkedIn:    
+Frontend Mentor: [@Shilluê](https://www.frontendmentor.io/profile/Shillue)      
+LinkedIn: [Shilluê](https://www.linkedin.com/in/shillu%C3%AA/)    
